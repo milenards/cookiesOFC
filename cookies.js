@@ -38,3 +38,4 @@ function cookies(functions) {
     marketing,
     analytics,
   });
+
